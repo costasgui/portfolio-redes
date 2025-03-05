@@ -1,6 +1,6 @@
 # Guilherme Silva - Portfólios
 
-Esses são os códigos-fonte dos sites dos meus portfólios de redes e reportagens. 
+Esses são os códigos-fonte dos sites dos meus portfólios de redes e reportagens. Oficialemente os **meusprimeiros códigos** :)
 
 **ATENÇÃO** não sou programador / desenvolvedor (ainda), código aqui totalmente amador e com ajuda de ChatGPT.
 

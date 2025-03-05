@@ -1,6 +1,6 @@
 # Guilherme Silva - Portfólios
 
-Esses são os códigos-fonte dos sites do meu portfólio de redes e reportagens. 
+Esses são os códigos-fonte dos sites dos meus portfólios de redes e reportagens. 
 
 **ATENÇÃO** não sou programador / desenvolvedor (ainda), código aqui totalmente amador e com ajuda de ChatGPT.
 
@@ -36,6 +36,4 @@ Esses são os códigos-fonte dos sites do meu portfólio de redes e reportagens.
 - **Bluesky:** [bsky.app/profile/guicostas.bsky.social](https://bsky.app/profile/guicostas.bsky.social)
 - **Instagram:** [instagram.com/costasgui](https://www.instagram.com/costasgui/)
 - **Portfólio de Reportagens:** [guilhermesilva.glitch.me](https://guilhermesilva.glitch.me/)
-
-Sinta-se à vontade para contribuir ou sugerir melhorias! 🚀
 

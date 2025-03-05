@@ -1,4 +1,4 @@
-# Guilherme Silva - Portfólios
+# Guilherme Silva - Portfólio redes
 
 Esses são os códigos-fonte dos sites dos meus portfólios de redes e reportagens. Oficialmente **meus primeiros códigos** :)
 
@@ -19,9 +19,17 @@ Esses são os códigos-fonte dos sites dos meus portfólios de redes e reportage
 ## 📂 Estrutura de Arquivos
 ```
 /
-├── index.html  # Arquivo principal do site
-├── /imagens    # Pasta para armazenar imagens (se aplicável)
-└── /css        # Arquivo de estilos (se aplicável)
+├── index.html        # Página principal dos portfólios
+├── canalreload.html        # Página "Canal Reload"
+├── colabora.html      # Página "Colabora"
+├── campanhaboulos.html      # Página "Camapanha Boulos"
+├── agenciapublica.html      # Página "Agência Pública"
+├── mesadebar.html      # Página "Mesa de Bar Podcast"
+├── /css
+│   ├── style.css     # Arquivo de estilos principal
+├── /js
+│   ├── script.js     # Arquivo para interatividade
+├── /imagens          # Pasta para armazenar imagens
 ```
 
 ## 🚀 Como Usar

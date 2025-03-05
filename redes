@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Portfólio de analista de Redes Sociais" />
+    <meta name="author" content="Guilherme Silva 🛜" />
+    <title>🛜 Guilherme Silva</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Inconsolata", monospace;
+        margin: 0;
+        padding: 20px;
+        text-align: center;
+        background-color: #f5f5f5;
+        color: #333;
+      }
+      .container {
+        max-width: 800px;
+        margin: auto;
+        padding: 20px;
+        background: white;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      h1 {
+        font-weight: bold;
+      }
+      p {
+        line-height: 1.6;
+      }
+      .back-link {
+        display: block;
+        margin-top: 20px;
+        text-decoration: none;
+        color: #0077b5;
+        font-weight: bold;
+      }
+
+      .separator {
+        width: 100%;
+        height: 1px;
+        background-color: #191919;
+        margin: 20px 0;
+      }
+      .back-link:hover {
+        text-decoration: underline;
+      }
+      .image-links {
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+      }
+
+      .link-item {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+      }
+
+      .link-item a {
+        text-decoration: none;
+        color: #000;
+        font-weight: bold;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        font-size: 20px;
+      }
+
+      .link-image {
+        width: 350px;
+        height: auto;
+      }
+
+      .contact button {
+        background-color: #0077b5;
+        font-family: "Inconsolata", monospace !important;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        font-size: 21px;
+        cursor: pointer;
+        outline: none;
+      }
+    </style>
+    <script>
+      function copyEmail() {
+        const email = "dacostasguilherme@gmail.com";
+        navigator.clipboard.writeText(email);
+        alert(
+          "e-mail copiado, agora é só dar 'control + v' no campo de destinarário"
+        );
+      }
+    </script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Guilherme Silva</h1>
+      <p>
+        Repórter e analista de redes sociais com foco na cobertura das
+        periferias de São Paulo. Atualmente, além de ser analista de redes
+        sociais, sou também correspondente local da
+        <b>Agência Mural de Jornalismo das Periferias</b>, onde compartilho
+        histórias e desafios das comunidades que geralmente não estão no centro
+        da atenção midiática. Neste espaço, você encontrará as redes sociais por
+        onde já passei.
+      </p>
+
+      <br />
+
+      <div class="contact">
+        <button onclick="copyEmail()"><b>Trabalhe</b> comigo</button>
+      </div>
+      <br />
+      <hr />
+      <br />
+
+      <div class="image-links">
+        <div class="link-item">
+          <a href="agpublica.html">
+            <img
+              src="https://cdn.glitch.global/cf7bdd2c-4d41-484f-8c0f-ffa195d26f9c/Captura%20de%20tela%202025-02-11%20125332.png?v=1739396150323"
+              alt="Imagem Agência Pública"
+              class="link-image"
+            />
+            <span>Agência Pública</span>
+          </a>
+        </div>
+        <div class="link-item">
+          <a href="campanha boulos.html">
+            <img
+              src="https://cdn.glitch.global/cf7bdd2c-4d41-484f-8c0f-ffa195d26f9c/455733327_1055746842584280_5923426239790552032_n.jpg?v=1739397369555"
+              alt="Campanha municipal Guilherme Boulos & Marta Suplicy 2024"
+              class="link-image"
+            />
+            <span
+              >Campanha municipal Guilherme Boulos e Marta Suplicy 2024</span
+            >
+          </a>
+        </div>
+        <div class="link-item">
+          <a href="colabora.html">
+            <img
+              src="https://cdn.glitch.global/cf7bdd2c-4d41-484f-8c0f-ffa195d26f9c/artboard-1-copy.jpg?v=1739397460501"
+              alt="Imagem #Colabora"
+              class="link-image"
+            />
+            <span>#Colabora</span>
+          </a>
+        </div>
+        <div class="link-item">
+          <a href="mesadebar.html">
+            <img
+              src="https://cdn.glitch.global/cf7bdd2c-4d41-484f-8c0f-ffa195d26f9c/hq720.jpg?v=1739397524316"
+              alt="Imagem Mesa de Bar"
+              class="link-image"
+            />
+            <span>Mesa de Bar Podcast</span>
+          </a>
+        </div>
+        <div class="link-item">
+          <a href="canalreload.html">
+            <img
+              src="https://cdn.glitch.global/cf7bdd2c-4d41-484f-8c0f-ffa195d26f9c/Apresentadores-Reload2.jpg?v=1739397576247"
+              alt="Canal Reload"
+              class="link-image"
+            />
+            <span>Canal Reload</span>
+          </a>
+        </div>
+
+        <div class="separator"></div>
+
+        <div class="links">
+          <footer>
+            <b>
+              <a href="https://www.linkedin.com/in/guuicostas/" id="linkedin"
+                >LinkedIn</a
+              >
+              <a
+                href="https://bsky.app/profile/guicostas.bsky.social"
+                id="bluesky"
+                >Bluesky</a
+              >
+              <a href="https://www.instagram.com/costasgui/" id="Instagram"
+                >Instagram</a
+              >
+              <a href="https://guilhermesilva.glitch.me/" id="Portfólio"
+                >Portfólio de reportagens</a
+              >
+            </b>
+          </footer>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

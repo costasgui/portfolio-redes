@@ -32,13 +32,6 @@ Esses são os códigos-fonte dos sites dos meus portfólios de redes e reportage
 ├── /imagens          # Pasta para armazenar imagens
 ```
 
-## 🚀 Como Usar
-1. Clone este repositório:
-   ```sh
-   git clone https://github.com/seu-usuario/repositorio.git
-   ```
-2. Abra o arquivo `index.html` no navegador.
-
 ## 🔗 Contato
 - **LinkedIn:** [linkedin.com/in/guuicostas](https://www.linkedin.com/in/guuicostas/)
 - **Bluesky:** [bsky.app/profile/guicostas.bsky.social](https://bsky.app/profile/guicostas.bsky.social)
